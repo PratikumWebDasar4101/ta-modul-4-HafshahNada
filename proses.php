@@ -44,7 +44,7 @@ function total($a, $b) {
     <table>
 
         <tr>
-            <td>Tanggal Input</td>
+            <td>Tanggal Submit</td>
             <td>:</td>
             <td><?php echo $tglbeli; ?></td>
         </tr>
